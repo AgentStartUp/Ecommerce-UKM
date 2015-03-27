@@ -1,4 +1,8 @@
-Ecommerce-UKM
+e-Commerce-UKM
 =============
+Startup Website e-Commerce UKM
 
-Startup Website Ecommerce UKM
+Build With
+<li>Nodejs</li>
+<li>Meteorjs</li>
+
